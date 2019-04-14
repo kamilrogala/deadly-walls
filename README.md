@@ -1,4 +1,4 @@
-# maze-game
+# GAME: Deadly Walls
 Simple game in js. Don't touch the walls or you'll die in pain!
 
 # TODO
