@@ -1,0 +1,10 @@
+body {
+    margin: 0
+}
+
+#game {
+    /*GPU booster*/
+    transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+    margin: 50px auto;
+    display: block
+}
